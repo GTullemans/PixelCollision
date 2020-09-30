@@ -1,0 +1,26 @@
+{
+  "name": "dsgpixelhitdetection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.html --open"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pixi.js": "^5.0.0",
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "app": "^0.1.0",
+    "pixi.js": "^5.2.1",
+    "text": "^0.1.0"
+  }
+}
